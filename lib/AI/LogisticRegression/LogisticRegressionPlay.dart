@@ -10,6 +10,10 @@ class PlayGround extends StatefulWidget {
 class _PlayGroundState extends State<PlayGround> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return Scaffold(
+        appBar: AppBar(
+          title: const Text('Logistic Regression Playground'),
+        ),
+        body: Column());
   }
 }

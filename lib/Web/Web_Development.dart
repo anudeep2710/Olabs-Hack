@@ -21,7 +21,7 @@ class _WebDevelopmentScreenState extends State<WebDevelopmentScreen> {
     const StepByStepContent(), // Step by Step tab
     const CodePlaygroundContent(), // Code Playground tab
     const QuizContent(), // Quiz tab
-    const ResourcesContent(), // Resources tab
+    ResourcesContent(), // Resources tab
   ];
 
   // Method to handle navigation bar item taps

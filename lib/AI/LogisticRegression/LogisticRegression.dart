@@ -22,7 +22,7 @@ class _LogisticRegressionScreenState extends State<LogisticRegressionScreen> {
     const StepByStepContent(), // Step by Step tab
     const PlayGround(), // Code Playground tab
     const LogisticRegressionQuiz(), // Quiz tab
-    const ResourcesContent(), // Resources tab
+    ResourcesContent(), // Resources tab
   ];
 
   // Method to handle navigation bar item taps
